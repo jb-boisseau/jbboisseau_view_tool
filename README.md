@@ -20,9 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-``
+```
 @copyright = JbboisseauViewTool::Renderer.copyright 'JB Boisseau', 'Tous droits réservés'
-
+```
 
 ## Development
 
