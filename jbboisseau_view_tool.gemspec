@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Show copyright with your name on it.}
   spec.description   = %q{Provides generated HTML date for Rails app.}
-  spec.homepage      = "www.jbboisseau.fr"
+  spec.homepage      = "http://www.jbboisseau.fr"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
